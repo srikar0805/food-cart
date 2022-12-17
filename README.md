@@ -9,10 +9,7 @@ npm i
 npm start
 
 ```
-#� �f�o�o�d�-�c�a�r�t�
-�
-�
-
-Multi restaurant supports.
 
 3 Main Apps (User App,Website, Store App)
+
+
